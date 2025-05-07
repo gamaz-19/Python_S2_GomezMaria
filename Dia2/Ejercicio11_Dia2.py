@@ -8,3 +8,5 @@ radio = float (input("Ingrese el valor del radio ")) # input entra como string, 
 area = pi*(radio**2)
 
 print(area)
+
+# Desarrollado por: Maria Alejandra Gomez Archila - cc.1005234916
